@@ -6,9 +6,11 @@
 
 #### Meta stuff about this awesome list:
 
-If you'd like to add a submission to `awesome-obs-live-editing`, please review the [contribution guidelines](CONTRIBUTING.md), make your change to the `README.md` file and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
+If you'd like to add a submission to `awesome-obs-live-editing`, please review the [contribution guidelines](CONTRIBUTING.md),
+ make your change to the `README.md` file and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
-Enjoy `awesome-obs-live-editing` or have any feedback that doesn't quite fit on GitHub? Feel free to contact `Reulan#0003` on Discord.
+Enjoy `awesome-obs-live-editing` or have any feedback that doesn't quite fit on GitHub? 
+Feel free to contact `Reulan#0003` on Discord.
 
 #### Awesome lists that related to or were an inspiration for this list:
 
@@ -19,14 +21,14 @@ Enjoy `awesome-obs-live-editing` or have any feedback that doesn't quite fit on 
 ---
 ## Table of Contents
 ### Hardware
-- [Cameras](#Cameras)
-- [Controllers](#Controllers)
-- [Monitors](#Monitors)
+- [Cameras](#cameras)
+- [Controllers](#controllers)
+- [Monitors](#monitors)
 
 ### Software
-- [Live Editing](#Live Editing)
-- [Virtual Effects](#Software)
-- [Voice Control](#Voice Control)
+- [Live Editing](#live-editing)
+- [Virtual Effects](#software)
+- [Voice Control](#voice-control)
 
 ---
 ## Hardware

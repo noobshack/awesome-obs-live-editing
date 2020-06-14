@@ -9,9 +9,9 @@ If you have something awesome to contribute to an awesome list, this is how you 
 You'll need a [GitHub account](https://github.com/join) to open a Pull Request, to have your changes reviewed then merged into the main branch!
 
 1. Review the `README.md` of this repository, this contains the table of contents and a list of software, hardware and guides to help one with their live editing journey.
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). 
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+1. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). 
+1. Say why you're proposing the changes, and then click on "Propose file change" or perform a similar action via the CLI. 
+1. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Updating your Pull Request
 
