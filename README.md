@@ -4,6 +4,10 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project, focused on pushing live editing to the next level.
 
+You can download [OBS Studio](https://obsproject.com/download) for Windows, Linux or Mac.
+
+The software is open source and the codebase is available on GitHub in the repository [obs-studio](https://github.com/obsproject/obs-studio).
+
 #### Meta stuff about this awesome list:
 
 If you'd like to add a submission to `awesome-obs-live-editing`, please review the [contribution guidelines](CONTRIBUTING.md), make your change to the `README.md` file and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
@@ -30,7 +34,17 @@ Feel free to contact `Reulan#0003` on Discord.
 - [Virtual Effects](#software)
 - [Voice Control](#voice-control)
 
+#### Template
+Below will be the template that can be used to add information about an item on this list.
+
+> Example for ProjektDragon:
 ---
+[ProjektDragon](http://projektdragon.com)
+
+A set of open source tools based around OBS which help streamers create interactive content for Twitch. 
+
+---
+
 ## Hardware
 ### Cameras
 placeholder
@@ -49,24 +63,37 @@ placeholder
 
 ---
 ## Software
+### Video management
+---
+[obs-virtual-cam](https://github.com/CatxFish/obs-virtual-cam)
+
+Transforms the output video source to a virtual directshow device.
+
+---
+[(top)](#table-of-contents)
+
 ### Live Editing
 placeholder
 
 [(top)](#table-of-contents)
 
 ### Virtual Effects
-placeholder
+---
+MAGIC
+
+pure vfx magic.
+
+---
+
 
 [(top)](#table-of-contents)
 
 ### Voice Control
-placeholder
+---
+[VoiceAttack](https://voiceattack.com/)
+
+Voice recognition software which allows you define how you interact with the computer. 
+
+---
 
 [(top)](#table-of-contents)
-
-# Required Open Source software
-
-- [OBS Studio](https://obsproject.com/download) for Linux or Mac.
-
-
-[ ⬆️  ⬆️  ⬆️  ](#awesome-obs-live-editing "Return to top")
