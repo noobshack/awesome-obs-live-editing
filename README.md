@@ -22,6 +22,12 @@ Feel free to contact `Reulan#0003` on Discord.
 - [awesome-obs](https://github.com/juancarlospaco/awesome-obs)
 
 
+#### Content creators who inspired this list:
+
+- [TheSushiDragon](https://www.twitch.tv/thesushidragon)
+- [nutty](https://www.youtube.com/channel/UCI5t_ve3cr5a1_3rrmbp6jQ)
+- [Scottie_Fox](https://www.twitch.tv/scottie_fox)
+
 ---
 ## Table of Contents
 ### Hardware
@@ -52,12 +58,18 @@ placeholder
 [(top)](#table-of-contents)
 
 ### Controllers
-placeholder
+[Twiddler](https://www.tekgear.com/twiddler3.html)
+
+A programmable keyboard in the formfactor of a hand controller.
+
+12 finger keys + 4 thumb keys
 
 [(top)](#table-of-contents)
 
 ## Monitors
-placeholder
+[Vufine](https://store.vufine.com/products/vufine-wearable-display-2)
+
+An alternate or mirrored display of a computer output in the form of eyeware.
 
 [(top)](#table-of-contents)
 
