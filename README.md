@@ -82,8 +82,8 @@ pure vfx magic.
 Voice recognition software which allows you define how you interact with the computer. 
 
 [(top)](#table-of-contents)
----
 
+---
 ## Additional Information
 ### OBS
 You can download [OBS Studio](https://obsproject.com/download) for Windows, Linux or Mac.
