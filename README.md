@@ -70,9 +70,9 @@ Transforms the output video source to a virtual directshow device.
 [(top)](#table-of-contents)
 
 ### Virtual Effects
-MAGIC
+[Magic](https://magicmusicvisuals.com)
 
-pure vfx magic.
+Visual effects software for creating dynamic, interactive visuals that combine shaders, live video feeds, audio, and MIDI/OSC inputs.
 
 [(top)](#table-of-contents)
 
