@@ -2,19 +2,17 @@
 
 > Open source tools which integrate with OBS for live editing and mixed reality.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project, focused on pushing live editing to the next level.
+This list is a collection of resources that allow streamers to create custom
+bespoke experiences for their viewers through the combination of a multiple different skills.
 
-You can download [OBS Studio](https://obsproject.com/download) for Windows, Linux or Mac.
-
-The software is open source and the codebase is available on GitHub in the repository [obs-studio](https://github.com/obsproject/obs-studio).
 
 #### Meta stuff about this awesome list:
 
 If you'd like to add a submission to `awesome-obs-live-editing`, please review the [contribution guidelines](CONTRIBUTING.md), make your change to the `README.md` file and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
-Enjoy `awesome-obs-live-editing` or have any feedback that doesn't quite fit on GitHub? 
+Have feedback for `awesome-obs-live-editing` that doesn't fall under a GitHub issue?  Feel free to contact `Reulan#0003` on Discord.
 
-Feel free to contact `Reulan#0003` on Discord.
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project, focused on pushing live editing to the next level.
 
 #### Awesome lists that related to or were an inspiration for this list:
 
@@ -29,17 +27,6 @@ Feel free to contact `Reulan#0003` on Discord.
 - [Scottie_Fox](https://www.twitch.tv/scottie_fox)
 
 ---
-## Table of Contents
-### Hardware
-- [Cameras](#cameras)
-- [Controllers](#controllers)
-- [Monitors](#monitors)
-
-### Software
-- [Live Editing](#live-editing)
-- [Virtual Effects](#software)
-- [Voice Control](#voice-control)
-
 #### Template
 Below will be the template that can be used to add information about an item on this list.
 
@@ -50,7 +37,16 @@ Below will be the template that can be used to add information about an item on 
 A set of open source tools based around OBS which help streamers create interactive content for Twitch. 
 
 ---
+## Table of Contents
+### Hardware
+- [Cameras](#cameras)
+- [Controllers](#controllers)
+- [Monitors](#monitors)
 
+### Software
+- [Live Editing](#live-editing)
+- [Virtual Effects](#software)
+- [Voice Control](#voice-control)
 ## Hardware
 ### Cameras
 placeholder
@@ -76,36 +72,29 @@ An alternate or mirrored display of a computer output in the form of eyeware.
 ---
 ## Software
 ### Video management
----
 [obs-virtual-cam](https://github.com/CatxFish/obs-virtual-cam)
 
 Transforms the output video source to a virtual directshow device.
 
----
-[(top)](#table-of-contents)
-
-### Live Editing
-placeholder
-
 [(top)](#table-of-contents)
 
 ### Virtual Effects
----
 MAGIC
 
 pure vfx magic.
 
----
-
-
 [(top)](#table-of-contents)
 
 ### Voice Control
----
 [VoiceAttack](https://voiceattack.com/)
 
 Voice recognition software which allows you define how you interact with the computer. 
 
+[(top)](#table-of-contents)
 ---
 
-[(top)](#table-of-contents)
+## Additional Information
+### OBS
+You can download [OBS Studio](https://obsproject.com/download) for Windows, Linux or Mac.
+
+The software is open source and the codebase is available on GitHub in the repository [obs-studio](https://github.com/obsproject/obs-studio).
