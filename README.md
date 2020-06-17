@@ -67,6 +67,10 @@ An alternate or mirrored display of a computer output in the form of eyeware.
 
 Transforms the output video source to a virtual directshow device.
 
+[Resolume](https://resolume.com/software)
+
+Provides easy playback & manipulation of video & audio clips, media management, and live compositing/editing of media sources.
+
 [(top)](#table-of-contents)
 
 ### Virtual Effects
@@ -75,6 +79,7 @@ Transforms the output video source to a virtual directshow device.
 Visual effects software for creating dynamic, interactive visuals that combine shaders, live video feeds, audio, and MIDI/OSC inputs.
 
 [Snapcam](https://snapcamera.snapchat.com/)
+
 Apply snapchat filters to any video source for use in any software that uses video input, as well as create your own lenses in Lens Studio to share for use in Snapcam and Snapchat.
 
 
