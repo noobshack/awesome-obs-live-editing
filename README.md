@@ -29,6 +29,7 @@ Have feedback for `awesome-obs-live-editing` that doesn't fall under a GitHub is
 ---
 ### Hardware
 - [Cameras](#cameras)
+- [Capture Cards](#capture-cards)
 - [Controllers](#controllers)
 - [Monitors](#monitors)
 
@@ -40,9 +41,14 @@ Have feedback for `awesome-obs-live-editing` that doesn't fall under a GitHub is
 
 ## Hardware
 ### Cameras
-placeholder
+[ZED Stereo Camera](https://www.stereolabs.com/zed/#)
 
-[(top)](#table-of-contents)
+A camera that spatially aware and can track body movemenents, ideal for mixed reality setups.
+
+### Capture Cards
+[Magewell 4 slot HDMI](https://www.magewell.com/products/pro-capture-quad-hdmi)
+
+PCI capture card for a computer to allow access to multiple video feeds via HDMI.
 
 ### Controllers
 [Twiddler](https://www.tekgear.com/twiddler3.html)
@@ -51,7 +57,9 @@ A programmable keyboard in the formfactor of a hand controller.
 
 12 finger keys + 4 thumb keys
 
-[(top)](#table-of-contents)
+[Valve Index Controllers](https://store.steampowered.com/app/1059550/Valve_Index_Controllers/)
+
+A virtual reality accessory that can be used to track finger movements and interact with virtual objects.
 
 ## Monitors
 [Vufine](https://store.vufine.com/products/vufine-wearable-display-2)
@@ -71,7 +79,6 @@ Transforms the output video source to a virtual directshow device.
 
 Provides easy playback & manipulation of video & audio clips, media management, and live compositing/editing of media sources.
 
-[(top)](#table-of-contents)
 
 ### Virtual Effects
 [Magic](https://magicmusicvisuals.com)
@@ -82,8 +89,6 @@ Visual effects software for creating dynamic, interactive visuals that combine s
 
 Apply snapchat filters to any video source for use in any software that uses video input, as well as create your own lenses in Lens Studio to share for use in Snapcam and Snapchat.
 
-
-[(top)](#table-of-contents)
 
 ### Voice Control
 [VoiceAttack](https://voiceattack.com/)
