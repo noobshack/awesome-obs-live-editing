@@ -95,6 +95,25 @@ Apply snapchat filters to any video source for use in any software that uses vid
 
 Voice recognition software which allows you define how you interact with the computer. 
 
+#### Voice Changer
+[Voicemod](https://www.voicemod.net/)
+
+Real-time voice changer built around gaming, supports Discord and VRChat.
+
+
+#### Voice Editing
+Nectar 3 (by Izotope)
+
+
+
+### Voice Hardware
+[TC-Helicon VoiceLive 3 Extreme](https://www.tc-helicon.com/product.html?modelCode=P0DEG)
+
+Effects Performance Floor Pedal with Backing Tracks, Looping, Automation and Audio Recording.
+
+GoXLR
+
+
 [(top)](#table-of-contents)
 
 ---
