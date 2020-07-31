@@ -1,15 +1,15 @@
 # Awesome OBS Live Editing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ## Overview
-> Open source tools which integrate with OBS for live editing and mixed reality.
+> Open source tools, software and hardware that integrate with OBS to enhance live editing abilty, enable mixed reality, use voice to control a broadcast and much more!
 
 This list is a collection of resources that allow streamers to create custom
-bespoke experiences for their viewers through the combination of a multiple different skills.
+bespoke experiences for their viewers through the combination of a multiple different skillsets.
 
-Content creators who inspired this list
+Content creators who inspired this list:
+- [DJ_Teo](https://www.twitch.tv/dj_teo)
 - [Scottie_Fox](https://www.twitch.tv/scottie_fox)
 - [TheSushiDragon](https://www.twitch.tv/thesushidragon)
-- [nutty](https://www.youtube.com/channel/UCI5t_ve3cr5a1_3rrmbp6jQ)
-
+- [nutty](https://www.twitch.tv/nutty)
 
 ### Contributing
 If you'd like to add a submission to `awesome-obs-live-editing`, please review the [contribution guidelines](CONTRIBUTING.md), make your change to the `README.md` file and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
@@ -32,11 +32,14 @@ Have feedback for `awesome-obs-live-editing` that doesn't fall under a GitHub is
 - [Capture Cards](#capture-cards)
 - [Controllers](#controllers)
 - [Monitors](#monitors)
+- [Voice](#voice)
 
 ### Software
 - [Video Management](#video-management)
 - [Virtual Effects](#software)
 - [Voice Control](#voice-control)
+- [Voice Changer](#voice-changer)
+
 ---
 
 ## Hardware
@@ -66,6 +69,12 @@ A virtual reality accessory that can be used to track finger movements and inter
 
 An alternate or mirrored display of a computer output in the form of eyeware.
 
+### Voice 
+[TC-Helicon VoiceLive 3 Extreme](https://www.tc-helicon.com/product.html?modelCode=P0DEG)
+
+Effects Performance Floor Pedal with Backing Tracks, Looping, Automation and Audio Recording.
+
+
 [(top)](#table-of-contents)
 
 ---
@@ -94,6 +103,11 @@ Apply snapchat filters to any video source for use in any software that uses vid
 [VoiceAttack](https://voiceattack.com/)
 
 Voice recognition software which allows you define how you interact with the computer. 
+
+#### Voice Changer
+[Voicemod](https://www.voicemod.net/)
+
+Real-time voice changer built around gaming, supports Discord and VRChat.
 
 [(top)](#table-of-contents)
 
