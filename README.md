@@ -79,6 +79,16 @@ Effects Performance Floor Pedal with Backing Tracks, Looping, Automation and Aud
 
 ---
 ## Software
+### Automation
+[Node-RED](https://nodered.org/)
+
+Allows the user to interconnect various defined components, in a streamers case this can be OBS, hardware connected to the PC, a cloud API, among others.
+DJ_Teo uses this heavily alongside TheSushiDragon.
+
+[Touch Designer](https://derivative.ca/)
+
+Connect different type of resource together in order to create unique and innovative visual effects or filters. Alongside the ability to control these interactions programmatically.
+
 ### Video Management
 [obs-virtual-cam](https://github.com/CatxFish/obs-virtual-cam)
 
