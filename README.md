@@ -23,6 +23,8 @@ A set of open source tools based around OBS which help streamers create interact
 
 Have feedback for `awesome-obs-live-editing` that doesn't fall under a GitHub issue?  Feel free to contact `Reulan#0003` on Discord.
 
+[noobshack Discord](https://gaze.noobshack.com/discord) || [noobshack gameservers](https://noobshack.com)
+
 ## Table of Contents
 ---
 ### Hardware
