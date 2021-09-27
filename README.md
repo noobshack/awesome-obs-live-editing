@@ -17,10 +17,11 @@ If you'd like to add a submission to `awesome-obs-live-editing`, please review t
 Add the name and a brief description of what the tool does.
 
 ---
-[ProjektDragon](http://projektdragon.com)
-
 A set of open source tools based around OBS which help streamers create interactive content for Twitch. 
 
+
+shouts out gameservers in my setup which have OBS integration via API
+[noobshack gameservers](http://noobshack.com)
 ---
 
 Have feedback for `awesome-obs-live-editing` that doesn't fall under a GitHub issue?  Feel free to contact `Reulan#0003` on Discord.
