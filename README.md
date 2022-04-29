@@ -6,10 +6,12 @@ This list is a collection of resources that allow streamers to create custom
 bespoke experiences for their viewers through the combination of a multiple different skillsets.
 
 Content creators who inspired this list:
-- [DJ_Teo](https://www.twitch.tv/dj_teo)
-- [Scottie_Fox](https://www.twitch.tv/scottie_fox)
 - [TheSushiDragon](https://www.twitch.tv/thesushidragon)
 - [nutty](https://www.twitch.tv/nutty)
+- [noobshack](https://www.twitch.tv/noobshack)
+- [DJ_Teo](https://www.twitch.tv/dj_teo)
+- [Scottie_Fox](https://www.twitch.tv/scottie_fox)
+
 
 ### Contributing
 If you'd like to add a submission to `awesome-obs-live-editing`, please review the [contribution guidelines](CONTRIBUTING.md), make your change to the `README.md` file and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
